@@ -1,1 +1,2 @@
-# Hear-me-
+# Hear-me-Girls in AI-Team 1
+Notre produit est un accessoire pour aider les sourds et malentendants à décrypter les sons et les voix qui les entourent. En utilisant l'Intelligence artificielle (IA) et la reconnaissance vocale et visuelle, le produit détecte le type de signature sonore (conversation, sonnette, alarme, bris de verre), localise sa provenance et transcrit les sons à l’écrit ou à l’oral, selon l’individu (préférence et handicap) et selon les situations. Le repérage des sons est effectué par un système de vibrations. La compréhension des conversations résulte d’une analyse des dialogues, retransmis aux appareils auditifs de l’utilisateur. Ce produit sera sous la forme d'un tour de cou connecté au téléphone et aux appareils.
